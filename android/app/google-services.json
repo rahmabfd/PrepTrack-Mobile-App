@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "226206392583",
+    "project_id": "pfaelearning-de331",
+    "storage_bucket": "pfaelearning-de331.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226206392583:android:644ab1fc7b7e2f2a64e5a2",
+        "android_client_info": {
+          "package_name": "com.example.pfa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlljEsva7xxWrT899wmo6NnhV3ncw20oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
